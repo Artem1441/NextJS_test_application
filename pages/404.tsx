@@ -5,7 +5,7 @@ import styles from "../styles/error.module.scss"
 
 export default function ErrorPage() {
     return (
-        <MainLayout>
+        <MainLayout title={"Error"}>
             <Head>
                 <title>Error</title>
             </Head>
